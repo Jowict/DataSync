@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "nome_produto": "Teclado",
+        "tipo_produto": "Perif\u00e9rico"
+    },
+    {
+        "id": "2",
+        "nome_produto": "Mouse",
+        "tipo_produto": "Perif\u00e9rico"
+    },
+    {
+        "id": "4",
+        "nome_produto": "Cooler",
+        "tipo_produto": "Componente"
+    },
+    {
+        "id": "5",
+        "nome_produto": "Pontos Riot",
+        "tipo_produto": "GiftCard"
+    },
+    {
+        "id": "6",
+        "nome_produto": "Pontos Overwatch",
+        "tipo_produto": "GiftCard"
+    }
+]
